@@ -51,15 +51,15 @@ body{
     font-size: 5.625rem;
     margin-top: 0;
     position: absolute;
-    top: 175px;
-    left: 400px;
+    top: 25%;
+    left: 29.62%;
     
     
 }
 .first-para{
     position: absolute;
-    top: 280px;
-    left: 650px;
+    top: 37%;
+    left: 49%;
     font-size: 2.5rem ;
 }
 h2{
@@ -83,13 +83,13 @@ p{
 }
 .singleCloud{
     position: absolute;
-    top: 50px;
-    left: 250px;
+    top: 10.7%;
+    left: 50.55%;
 }
 .singleCloud2{
     position: absolute;
-    top: 75px;
-    left: 750px;
+    top: 7.14%;
+    left: 18.51%;
 }
 hr{
     background-color: #EAF6F6;
@@ -106,7 +106,7 @@ hr{
     width: 87.5rem;
     top: 0;
     padding-top: 0px;
-    width: 84.375rem;
+    width: 89rem;
     height: auto;
     max-width:100%;
     
