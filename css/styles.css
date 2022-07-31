@@ -48,7 +48,7 @@ body{
     color:rgb(47, 41, 56);
     
     font-family: 'Dancing Script', cursive;
-    font-size: 5.625rem;
+    font-size: 12.85%;
     margin-top: 0;
     position: absolute;
     top: 25%;
@@ -60,7 +60,7 @@ body{
     position: absolute;
     top: 37%;
     left: 49%;
-    font-size: 2.5rem ;
+    font-size: 5.71% ;
 }
 h2{
     color: #11999E;
@@ -85,11 +85,15 @@ p{
     position: absolute;
     top: 10.7%;
     left: 50.55%;
+    width: 11.11%;
+    height:6.85%;
 }
 .singleCloud2{
     position: absolute;
     top: 7.14%;
     left: 18.51%;
+    width: 11.11%;
+    height:6.85%;
 }
 hr{
     background-color: #EAF6F6;
