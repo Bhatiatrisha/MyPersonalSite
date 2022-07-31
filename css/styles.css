@@ -98,16 +98,17 @@ hr{
     border-color: lightgrey;
     border-width: 10px;
     width: 10%;
-    left:37.5rem;
-    position: absolute;
+    margin:auto;
+    position: relative;
     
 }
 .large-cloud{
     width: 87.5rem;
     top: 0;
     padding-top: 0px;
-    width: auto;
-    height: 43.75rem;
+    width: 84.375rem;
+    height: auto;
+    max-width:100%;
     
 
     
